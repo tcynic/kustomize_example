@@ -1,0 +1,8 @@
+---
+commonLabels:
+  app: sammy-app
+
+resources:
+- configmap.yml
+- deployment.yml
+- service.yml
